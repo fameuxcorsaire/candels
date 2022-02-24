@@ -1,7 +1,6 @@
 ###############################################################################
 ##################SCRIPT QUE FILTRA Y PROCESA DATOS DE CANDELS#################
 ###############################################################################
-#Cambio
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
